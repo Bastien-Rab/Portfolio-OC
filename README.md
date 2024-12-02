@@ -64,7 +64,7 @@ Ce projet, intitulé **"Créer votre portfolio professionnel de data analyst,"**
    - Rédaction claire et professionnelle des processus et résultats.  
 
 4. **Compétences Techniques** :
-   - Maîtrise de Tableau, Power BI et Figma.  
+   - Maîtrise de Tableau.  
    - Utilisation efficace de GitHub pour l’hébergement du portfolio.  
 
 5. **Soft Skills** :
