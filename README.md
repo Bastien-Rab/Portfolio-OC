@@ -35,8 +35,8 @@ Ce projet, intitulé **"Créer votre portfolio professionnel de data analyst,"**
    - Créés avec Tableau, mettant en avant :
      - [Une synthèse de mon profil professionnel](https://public.tableau.com/app/profile/bastien.rabane/viz/Interactive_resume_17321971198190/Tableaudebord1).
      - [Une veille métier sur les tendances dans le domaine de l’analyse de données](https://public.tableau.com/app/profile/bastien.rabane/viz/TBVeillemtier/Tableaudebord1?publish=yes).  
-6. [**Documentation**](https://github.com/Bastien-Rab/Portfolio-OC/blob/main/Guide%20de%20cre%CC%81ation%20de%20graphiques%20avec%20Tableau%20Software.pdf) : Explication complète des processus et décisions prises.  
-7. [**Vidéo de Formation**](https://www.loom.com/share/507c38022c1b4448b6d61d2dcb427e92?sid=ff8d9daf-9a3a-47f5-add1-a2da335ccf2b) : Démonstration de la navigation dans le portfolio.  
+6. [**Documentation**](https://github.com/Bastien-Rab/Portfolio-OC/blob/main/Guide%20de%20cre%CC%81ation%20de%20graphiques%20avec%20Tableau%20Software.pdf) : Procédure de création d'un "magnifique" graphique via Tableau.
+7. [**Vidéo de Formation**](https://www.loom.com/share/507c38022c1b4448b6d61d2dcb427e92?sid=ff8d9daf-9a3a-47f5-add1-a2da335ccf2b) : Loom / vidéo de formation de 8 min sur la création de visualisation via Tableau.
 8. [**Portfolio en Ligne**](https://github.com/Bastien-Rab) : Portfolio final hébergé sur Github.
 
 ---
