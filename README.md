@@ -26,18 +26,18 @@ Ce projet, intitulé **"Créer votre portfolio professionnel de data analyst,"**
 
 ## ✨ Livrables
 
-1. **Carte Mentale** : Organisation de la structure du portfolio en lien avec les attentes du client.  
+1. [**Carte Mentale**](https://miro.com/app/board/uXjVLMJ40EQ=/) : Organisation de la structure du portfolio en lien avec les attentes du client.  
 2. **Cahier des Charges Fonctionnel** : Description détaillée des objectifs et livrables.  
-3. **Diagramme de Gantt** : Visualisation des étapes clés et du calendrier du projet.  
-4. **Mockups** :
+3. [**Diagramme de Gantt**](https://public.tableau.com/app/profile/bastien.rabane/viz/Gantt_17331270054650/Tableaudebord1?publish=yes) : Visualisation des étapes clés et du calendrier du projet.  
+4. [**Mockups**](https://miro.com/app/board/uXjVLFeBilA=/) :
    - Prototypes des tableaux de bord (profil professionnel et veille métier).  
 5. **Tableaux de Bord** :
    - Créés avec Tableau, mettant en avant :
-     - Une synthèse de mon profil professionnel.
-     - Une veille métier sur les tendances dans le domaine de l’analyse de données.  
+     - [Une synthèse de mon profil professionnel](https://public.tableau.com/app/profile/bastien.rabane/viz/Interactive_resume_17321971198190/Tableaudebord1).
+     - [Une veille métier sur les tendances dans le domaine de l’analyse de données](https://public.tableau.com/app/profile/bastien.rabane/viz/TBVeillemtier/Tableaudebord1?publish=yes).  
 6. **Documentation** : Explication complète des processus et décisions prises.  
-7. **Vidéo de Formation** : Démonstration de la navigation dans le portfolio.  
-8. **Portfolio en Ligne** : Portfolio final hébergé sur [Tableau Public](https://public.tableau.com/app/profile/bastien.rabane/viz/Interactive_resume_17321971198190/Tableaudebord1)) ou une plateforme CMS.
+7. [**Vidéo de Formation**](https://www.loom.com/share/507c38022c1b4448b6d61d2dcb427e92?sid=ff8d9daf-9a3a-47f5-add1-a2da335ccf2b) : Démonstration de la navigation dans le portfolio.  
+8. [**Portfolio en Ligne**](https://public.tableau.com/app/profile/bastien.rabane/viz/Interactive_resume_17321971198190/Tableaudebord1) : Portfolio final hébergé sur Tableau Public.
 
 ---
 
