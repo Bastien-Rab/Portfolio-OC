@@ -8,7 +8,7 @@ Ce projet, intitulé **"Créer votre portfolio professionnel de data analyst,"**
 
 ## 🎯 Objectifs du Projet
 
-1. **Analyser les besoins du client** :
+1. [**Analyser les besoins du client**](https://github.com/Bastien-Rab/Portfolio-OC/blob/main/Analyse%20des%20besoins%20client.pdf) :
    - Comprendre les attentes d’Aéroworld concernant le portfolio, notamment en termes de projets, compétences et livrables.
 
 2. **Produire les livrables clés** :
@@ -27,7 +27,7 @@ Ce projet, intitulé **"Créer votre portfolio professionnel de data analyst,"**
 ## ✨ Livrables
 
 1. [**Carte Mentale**](https://miro.com/app/board/uXjVLMJ40EQ=/) : Organisation de la structure du portfolio en lien avec les attentes du client.  
-2. **Cahier des Charges Fonctionnel** : Description détaillée des objectifs et livrables.  
+2. [**Cahier des Charges Fonctionnel**](https://github.com/Bastien-Rab/Portfolio-OC/blob/main/Cahier_des_charges_fonctionnel.pdf) : Description détaillée des objectifs et livrables.  
 3. [**Diagramme de Gantt**](https://public.tableau.com/app/profile/bastien.rabane/viz/Gantt_17331270054650/Tableaudebord1?publish=yes) : Visualisation des étapes clés et du calendrier du projet.  
 4. [**Mockups**](https://miro.com/app/board/uXjVLFeBilA=/) :
    - Prototypes des tableaux de bord (profil professionnel et veille métier).  
@@ -35,7 +35,7 @@ Ce projet, intitulé **"Créer votre portfolio professionnel de data analyst,"**
    - Créés avec Tableau, mettant en avant :
      - [Une synthèse de mon profil professionnel](https://public.tableau.com/app/profile/bastien.rabane/viz/Interactive_resume_17321971198190/Tableaudebord1).
      - [Une veille métier sur les tendances dans le domaine de l’analyse de données](https://public.tableau.com/app/profile/bastien.rabane/viz/TBVeillemtier/Tableaudebord1?publish=yes).  
-6. **Documentation** : Explication complète des processus et décisions prises.  
+6. [**Documentation**](https://github.com/Bastien-Rab/Portfolio-OC/blob/main/Guide%20de%20cre%CC%81ation%20de%20graphiques%20avec%20Tableau%20Software.pdf) : Explication complète des processus et décisions prises.  
 7. [**Vidéo de Formation**](https://www.loom.com/share/507c38022c1b4448b6d61d2dcb427e92?sid=ff8d9daf-9a3a-47f5-add1-a2da335ccf2b) : Démonstration de la navigation dans le portfolio.  
 8. [**Portfolio en Ligne**](https://github.com/Bastien-Rab) : Portfolio final hébergé sur Github.
 
