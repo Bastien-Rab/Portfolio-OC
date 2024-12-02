@@ -1,4 +1,4 @@
-# README - Portfolio Professionnel Data Analyst  
+# Portfolio Professionnel Data Analyst  
 
 ## 📚 Présentation du Projet
 
