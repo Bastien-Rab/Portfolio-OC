@@ -37,7 +37,7 @@ Ce projet, intitulé **"Créer votre portfolio professionnel de data analyst,"**
      - Une veille métier sur les tendances dans le domaine de l’analyse de données.  
 6. **Documentation** : Explication complète des processus et décisions prises.  
 7. **Vidéo de Formation** : Démonstration de la navigation dans le portfolio.  
-8. **Portfolio en Ligne** : Portfolio final hébergé sur [GitHub](https://github.com/) ou une plateforme CMS.
+8. **Portfolio en Ligne** : Portfolio final hébergé sur [Tableau Public]((https://public.tableau.com/app/profile/bastien.rabane/viz/Interactive_resume_17321971198190/Tableaudebord1)) ou une plateforme CMS.
 
 ---
 
